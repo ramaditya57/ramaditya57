@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋! My name is Ramaditya Chaudhary</h2>
-<h2 align="center">I'm a student pursing B-Tech, from VIT Bhopal University</h2>
+<h2 align="center">I'm a student pursing B-Tech, from Vellore Institute Of Technology, Bhopal</h2>
 
 ###
 
