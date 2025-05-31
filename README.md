@@ -73,7 +73,6 @@
 
 - 💯 Solved **200+** DSA problems on various coding platforms
 <!-- - 🥇 Participated in various hackathons and coding competitions -->
-- 📚 Completed multiple web development projects
 - 👨‍💻 Open source contributor
 
 <!-- ## 🌟 Featured Projects
