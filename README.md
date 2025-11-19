@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Ramaditya+Chaudhary;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=36BCF7">
 </h1>
 
-<div align="center">
-  <img src="https://i.imgur.com/q6bZQGp.gif" width="500">
-</div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> </div>
 
 ---
 
@@ -47,14 +45,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramaditya57&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-## 🏆 **Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramaditya57&theme=tokyonight&no-frame=true&margin-w=15" />
 </div>
 
 ---
