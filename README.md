@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Ramaditya+Chaudhary;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!&center=true&size=30&color=36BCF7">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Ramaditya+Chaudhary;Full+Stack+Developer+%7C+Tech+Explorer;Welcome+to+my+GitHub+Profile!&center=true&size=20&color=36BCF7">
 </h1>
 
 <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> </div>
@@ -49,23 +49,8 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-<div align="center">
-  
-| Project | Tech Stack | Link |
-|--------|------------|------|
-| 🍽️ **Food Ordering Web App** | MERN + Stripe | 🔗 https://github.com/... |
-| 🏦 **Banking App with Transactions** | MongoDB Transactions + Node | 🔗 https://github.com/... |
-| 🌍 **Tours & Travel Booking System** | MERN | 🔗 https://github.com/... |
-| 📊 **Mutual Fund Analysis** | Python + Power BI | 🔗 https://github.com/... |
-  
-</div>
-
----
-
 ## 🏅 **Achievements**
-- 🔥 Solved **200+ DSA problems**
+- 🔥 Solved **400+ DSA problems**
 - 🧑‍💻 Contributing to open-source
 - 🏗 Built multiple production-grade MERN apps
 - 🏆 Participated in hackathons and coding contests
